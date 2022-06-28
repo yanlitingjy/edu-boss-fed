@@ -1,4 +1,4 @@
-# boss-fat
+# edu-boss-fed
 
 ## Project setup
 ```
